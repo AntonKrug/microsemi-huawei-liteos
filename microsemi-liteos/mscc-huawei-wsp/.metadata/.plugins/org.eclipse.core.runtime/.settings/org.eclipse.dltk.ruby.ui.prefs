@@ -1,0 +1,12 @@
+DLTK_comment_task_tag_italic=false
+DLTK_doc.topic_italic=false
+DLTK_doc_italic=false
+DLTK_single_line_comment_italic=false
+eclipse.preferences.version=1
+overriddenByCSS=,sourceHoverBackgroundColor.SystemDefault,DLTK_comment_task_tag_italic,variable.class_underline,DLTK_doc.topic_italic,variable.class_strikethrough,variable.instance_bold,DLTK_single_line_comment_italic,variable.class_bold,DLTK_doc_italic,variable.instance_strikethrough,variable.instance_underline,
+variable.class_bold=false
+variable.class_strikethrough=false
+variable.class_underline=false
+variable.instance_bold=false
+variable.instance_strikethrough=false
+variable.instance_underline=false

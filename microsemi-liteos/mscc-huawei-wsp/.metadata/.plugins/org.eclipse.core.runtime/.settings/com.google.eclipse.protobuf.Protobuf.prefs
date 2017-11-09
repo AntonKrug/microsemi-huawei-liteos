@@ -1,0 +1,8 @@
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enum.color=127,179,71
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumDefinition.color=127,179,71
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumLiteral.color=127,179,71
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumLiteralDefinition.color=127,179,71
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.rpcArgument.color=191,164,164
+com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.rpcReturnType.color=191,164,164
+eclipse.preferences.version=1
+overriddenByCSS=,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumLiteral.color,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.rpcArgument.color,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.rpcReturnType.color,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumLiteralDefinition.color,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enumDefinition.color,com.google.eclipse.protobuf.Protobuf.syntaxColorer.tokenStyles.enum.color,

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+overriddenByCSS=,semanticHighlighting.ts_interface.enabled,semanticHighlighting.ts_localVariable.enabled,semanticHighlighting.ts_classProperty.enabled,semanticHighlighting.ts_method.enabled,semanticHighlighting.ts_module.enabled,semanticHighlighting.ts_class.enabled,semanticHighlighting.ts_class.bold,semanticHighlighting.ts_module.underline,semanticHighlighting.ts_module.bold,semanticHighlighting.ts_class.strikethrough,semanticHighlighting.ts_module.strikethrough,semanticHighlighting.ts_class.underline,
+semanticHighlighting.ts_class.bold=false
+semanticHighlighting.ts_class.strikethrough=false
+semanticHighlighting.ts_class.underline=false
+semanticHighlighting.ts_module.bold=false
+semanticHighlighting.ts_module.strikethrough=false
+semanticHighlighting.ts_module.underline=false
